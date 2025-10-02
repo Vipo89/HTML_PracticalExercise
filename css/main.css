@@ -1,0 +1,8 @@
+.section1 {
+  display: flex;
+  height: 80vh;
+  background-image: url("../images/Blackbackground.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
