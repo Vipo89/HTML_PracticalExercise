@@ -174,3 +174,53 @@ padding: 10px;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 16px;
 }
+.section6{
+  background-color: #f5f5f5;
+  position: relative;
+  overflow: visible;
+}
+.section6_grid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+
+ flex-direction: column;
+}
+.section6_grid h2{
+  font-size: 24px;
+}
+.email_submit_wrapper {
+  display: flex;
+  border: 2px solid #e9cd6c;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 400px; 
+}
+
+.section6_grid_input_email {
+  flex: 1;
+  border: none;
+  padding: 12px 15px;
+  font-size: 16px;
+ background-color: #f5f5f5;
+}
+
+.section6_grid_input_btn {
+  margin: 5px;
+  padding: 12px 25px;  
+  background-color: #fac100;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  min-width: 120px;      
+}
+
+.section6_offer {
+  position: absolute;
+  top: -15px;    
+  right: 80px;  
+  width: 150px;  
+  height: auto;
+
+}
