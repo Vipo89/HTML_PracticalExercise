@@ -1,12 +1,12 @@
-:root{
-
-    
+:root {
+  --princ-color: #fac100;
+  --secbg-color: #d2d2d2;
+  --btn-color: #e0b000;
 }
 
-body{
-    margin: 0 auto;
-
+body {
+  margin: 0 auto;
 }
-.container{
-    margin: 0px;
+.container {
+  margin: 0px;
 }
